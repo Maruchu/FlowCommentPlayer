@@ -198,27 +198,27 @@ PrefabInstance:
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.size
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.data[0]
-      value: "\u32A5\u30C1\u30E7\u30FC\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u30FC"
+      value: "\u32A5\u8D85\u512A\u3057\u3044\u3093\u3060\u3051\u3069\u30FC"
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.data[1]
-      value: "\u32A5\u30C1\u30E7\u30FC\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u30FC"
+      value: "\u32A5\u8D85\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u30FC"
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.data[2]
-      value: "\u307E\u308B\u3061\u3085\u3046\u30C1\u30E7\u30FC\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\uFF5E"
+      value: "\u32A5\u30C1\u30E7\u30FC\u512A\u3057\u3044\u3093\u3060\u3051\u3069\u30FC"
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.data[3]
-      value: "\u307E\u308B\u3061\u3085\u3046\u30C1\u30E7\u30FC\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u30FC"
+      value: "\u307E\u308B\u3061\u3085\u3046\u8D85\u512A\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u30FC"
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
@@ -228,7 +228,7 @@ PrefabInstance:
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
       propertyPath: commentTextList.Array.data[5]
-      value: 88888888
+      value: "\u32A5\u8D85\u512A"
       objectReference: {fileID: 0}
     - target: {fileID: 1769054565545054831, guid: 2698649d2edc7254ca6e395b6ff899ba,
         type: 3}
