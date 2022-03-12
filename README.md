@@ -1,7 +1,7 @@
 ﻿# FlowCommentPlayer
 流れるコメント再生プレーヤー<br>
 
-<img src="http://many.chu.jp/Unity/GitHub/FlowCommentPlayer/a/Sample4.gif" alt="サンプル">
+<img src="http://many.chu.jp/Unity/GitHub/FlowCommentPlayer/a/Sample1.gif" alt="ニコニコ風"> 　 <img src="http://many.chu.jp/Unity/GitHub/FlowCommentPlayer/a/Sample4.gif" alt="サンプル">
 
 Copyright(C) 2022 [㊥Maruchu](https://twitter.com/Maruchu "㊥Maruchu")
 
@@ -21,9 +21,9 @@ Copyright(C) 2022 [㊥Maruchu](https://twitter.com/Maruchu "㊥Maruchu")
 
 FlowCommentPlayer のフォルダにサンプルのシーンが入っているので開いて実行してみてください。
 
-> FlowCommentPlayer/Sample1.unity　 　：　ニコニコ風 サンプル
-> FlowCommentPlayer/Sample2.unity　 　：　bilibili風 サンプル
-> FlowCommentPlayer/TeikyoBase.unity　：　ニコニ広告風 サンプル
+> FlowCommentPlayer/Sample1.unity　 　：　ニコニコ風 サンプル<br>
+> FlowCommentPlayer/Sample2.unity　 　：　bilibili風 サンプル<br>
+> FlowCommentPlayer/TeikyoBase.unity　：　ニコニ広告風 サンプル<br>
 
 <img src="http://many.chu.jp/Unity/GitHub/FlowCommentPlayer/a/Sample1.gif" alt="ニコニコ風">
 
